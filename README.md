@@ -1,4 +1,4 @@
-# -Modulation-Classification-using-advanced-federated-learning
+# Modulation-Classification-using-advanced-federated-learning
 This project leverages advanced Federated Learning (FL) techniques for modulation classification using the given dataset. 
 Four cutting-edge FL methods are explored, including Differential Privacy, Secure Aggregation, Personalized FL, and Matched Averaging. 
 The goal is to enhance privacy, security, personalization, and model averaging in FL. Simulations cover various scenarios, 
